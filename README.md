@@ -137,7 +137,7 @@ written down (IC fair value < carrying value at acquisition), net balance unchan
 Per share impact (total amort): FY2024 = -$2.13/share, FY2025E = ~-$1.96/share
 
 **VERDICT: This is the #1 ongoing accounting drag on GAAP EPS (outside of one-time impairments).**
-- Total amortization running at ~ $345M/year (~$86M/quarter)
+- Total amortization running at ~$345M/year (~$86M/quarter)
 - Acquired-intangibles amortization has been declining at the full-year level (e.g., $243.0M in FY2023 → $230.3M in FY2024)
 - The remainder of the GAAP amortization line item reflects other amortizing intangible balances (including internally developed/capitalized items depending on classification)
 - **The amortization expense itself is non-cash**; cash impact is via **earlier** M&A cash paid and/or **ongoing capex/capitalized software** (see cash flow).
@@ -150,6 +150,22 @@ Per share impact (total amort): FY2024 = -$2.13/share, FY2025E = ~-$1.96/share
 | FY2024 | $146.0M    | -$0.86/share    | ↓ 28%    |
 | 9M2025 | $64.5M     | -$0.37/share    |          |
 | FY2025E| ~$86M      | ~-$0.49/share   | ↓ 41%    |
+
+#### Quarterly SBC as % of Revenue (GAAP expense)
+
+| Quarter | Revenue ($M) | SBC ($M) | SBC % of Revenue |
+|--------|--------------:|---------:|-----------------:|
+| Q1 2023 | 629.2 | 46.0 | 7.32% |
+| Q2 2023 | 652.4 | 55.7 | 8.54% |
+| Q3 2023 | 660.2 | 52.9 | 8.02% |
+| Q4 2023 | 660.5 | 46.8 | 7.09% |
+| Q1 2024 | 646.1 | 42.3 | 6.55% |
+| Q2 2024 | 642.4 | 42.1 | 6.55% |
+| Q3 2024 | 640.5 | 34.0 | 5.32% |
+| Q4 2024 | 640.5 | 27.5 | 4.29% |
+| Q1 2025 | 629.4 | 25.2 | 4.00% |
+| Q2 2025 | 631.9 | 22.3 | 3.54% |
+| Q3 2025 | 626.4 | 17.0 | 2.71% |
 
 **VERDICT: Already fixing itself.** Down from $201M → estimated $86M in just 2 years.
 Reflects lower stock price = fewer option grants needed, plus post-restructuring smaller headcount.
@@ -256,7 +272,7 @@ Integrated Care EBITDA Margin:
   2025: ~15.2% (steady)
   Target: 18-20% → could add $45-75M = +$0.25-$0.43/share
 ```
-- Members growing (~ 93.9M in Q3'24 → 102.5M in Q3'25) but ARPU declining (~$1.36 → $1.27)
+- Members growing (~93.9M in Q3'24 → 102.5M in Q3'25) but ARPU declining (~$1.36 → $1.27)
 - Need to cross-sell more services per member and raise ARPU
 
 ### Lever 4: CUT ADVERTISING SPEND (Risky but Powerful)
