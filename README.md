@@ -255,7 +255,7 @@ Integrated Care EBITDA Margin:
   2025: ~15.2% (steady)
   Target: 18-20% → could add $45-75M = +$0.25-$0.43/share
 ```
-- Members growing (~93.9M in Q3'24 → 102.5M in Q3'25) but ARPU declining (~$1.36 → $1.27)
+- Members growing (~ 93.9M in Q3'24 → 102.5M in Q3'25) but ARPU declining (~$1.36 → $1.27)
 - Need to cross-sell more services per member and raise ARPU
 
 ### Lever 4: CUT ADVERTISING SPEND (Risky but Powerful)
