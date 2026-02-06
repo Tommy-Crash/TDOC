@@ -18,23 +18,23 @@
 
 | Quarter  | EPS (GAAP) | Revenue ($M) | Net Loss ($M) | Key Non-Cash Items |
 |----------|-----------|-------------|---------------|---------------------|
-| Q1 2023  | -$0.42    | $629.2      | $69.2         | SBC + Amortization |
-| Q2 2023  | -$0.40    | ~$653       | ~$66          | SBC + Amortization |
-| Q3 2023  | -$0.35    | $660        | ~$58          | SBC + Amortization |
-| Q4 2023  | -$0.17    | $660.5      | $28.9         | SBC $46.8M + Amort $94.7M |
-| **FY2023** | **-$1.34** | **$2,602.4** | **$220.4** | **SBC $201.6M + Amort $325.9M** |
-| Q1 2024  | -$0.49    | $646.1      | $81.9         | SBC + Amortization |
-| Q2 2024  | -$4.92    | $642.4      | $837.7        | **$790M GOODWILL IMPAIRMENT** |
+| Q1 2023  | -$0.42    | $629.2      | $69.2         | SBC $46.0M + Acq. amort $50.3M |
+| Q2 2023  | -$0.40    | $652.4      | $65.2         | SBC $55.7M + Acq. amort $52.8M |
+| Q3 2023  | -$0.35    | $660.2      | $57.1         | SBC $52.9M + Acq. amort $69.2M |
+| Q4 2023  | -$0.17    | $660.5      | $28.9         | SBC $46.8M + Acq. amort $70.8M |
+| **FY2023** | **-$1.34** | **$2,602.4** | **$220.4** | **SBC $201.6M + Amort (total) $325.9M (Acq. $243.0M)** |
+| Q1 2024  | -$0.49    | $646.1      | $81.9         | SBC $42.3M + Amort $95.1M |
+| Q2 2024  | -$4.92    | $642.4      | $837.7        | **Goodwill $790.0M + SBC $42.1M + Amort $94.9M** |
 | Q3 2024  | -$0.19    | $640.5      | $33.3         | SBC $34M + Amort $86.9M |
 | Q4 2024  | -$0.28    | $640.5      | $48.4         | SBC $27.5M + Amort $86.5M |
-| **FY2024** | **-$5.87** | **$2,569.6** | **$1,001.2** | **Goodwill $790M + SBC $146M + Amort $363M** |
-| Q1 2025  | -$0.53    | $629.4      | $93.0         | Goodwill impairment ~$59M (Catapult) |
-| Q2 2025  | -$0.19    | $631.9      | $32.7         | SBC declining, Amort steady |
+| **FY2024** | **-$5.87** | **$2,569.6** | **$1,001.2** | **Goodwill $790M + SBC $146M + Amort (total) $363.4M (Acq. $230.3M)** |
+| Q1 2025  | -$0.53    | $629.4      | $93.0         | Goodwill $59.1M + SBC $25.2M + Amort $84.3M |
+| Q2 2025  | -$0.19    | $631.9      | $32.7         | SBC $22.3M + Amort $88.7M |
 | Q3 2025  | -$0.28    | $626.4      | $49.5         | Goodwill $12.6M + SBC $17M + Amort $85.8M |
 | **9M 2025** | **-$1.00** | **$1,887.7** | **$175.2**  | **Goodwill $71.8M + SBC $64.5M + Amort $258.7M** |
 ---
 
-**Note on “Amort” in this table:** where a specific value is shown, **“Amort” refers to the GAAP line item “amortization of intangible assets” (total)**. Teladoc sometimes also calls out **“amortization of acquired intangibles”** separately in the narrative; that acquired-only number will be lower than the GAAP total.
+**Note on “Amort” in this table:** Teladoc’s disclosures changed over time. For 2024–2025, “Amort” above refers to the GAAP line item **“amortization of intangible assets” (total)** shown in the financial statements. In 2023, the releases commonly called out **“amortization of acquired intangibles”** in the narrative (shown above as “Acq. amort”).
 
 ## 2. WHERE IS THE MONEY GOING? (Full Year Expense Breakdown)
 
@@ -114,8 +114,8 @@ NET LOSS                                    -$175.2   (-$1.00/share)
 | 2025  | $71.8M (Catapult/Telecare) | **$283M**   |
 
 **VERDICT: Nearly fully written down. Only ~$283M of goodwill remains (as of Sept 30, 2025).**
-Integrated Care goodwill = $0 (fully written off in 2022 impairments).
-BetterHelp started 2024 at $1,073M → $790M impairment → $283M remaining.
+Company goodwill was ~$1.073B at Dec 31, 2023 and ~$0.283B at Dec 31, 2024.
+The **$790.0M** 2024 impairment charge was attributed to **BetterHelp** in Teladoc’s earnings disclosures.
 The 2020 Livongo acquisition ($18.5B) destroyed ~$15B+ in shareholder value through impairments.
 2025 impairments ($71.8M) were new goodwill from Catapult/Telecare acquisitions immediately
 written down (IC fair value < carrying value at acquisition), net balance unchanged at $283M.
@@ -127,20 +127,19 @@ written down (IC fair value < carrying value at acquisition), net balance unchan
 - But it generally reflects **prior cash spend** (M&A purchase price allocated to intangible assets and/or capitalized software that was paid for earlier).
 - The exact split between “acquired intangibles” vs “capitalized software amortization” depends on Teladoc’s accounting classification; treat any split below as an **estimate** unless tied to a specific filing footnote.
 
-| Period | Total Amort. | Acquired Intangibles Only | Cap. Software | Intangible Assets (Net) |
-|--------|-------------|--------------------------|---------------|------------------------|
-| FY2023 | $325.9M     | ~$208M                   | ~$118M        | $1,677.8M              |
-| FY2024 | $363.4M     | $230.3M                  | $133.1M       | $1,431.4M              |
-| 9M2025 | $258.7M     | ~$163M                   | ~$96M         | $1,336.7M              |
-| FY2025E| ~$345M      | ~$215M                   | ~$130M        | ~$1,250M (est.)        |
+| Period | Total Amort. (GAAP) | Acquired Intangibles Amort. (if disclosed) | Intangible Assets (Net) |
+|--------|----------------------|-------------------------------------------|-------------------------|
+| FY2023 | $325.9M              | $243.0M                                   | $1,677.8M               |
+| FY2024 | $363.4M              | $230.3M                                   | $1,431.4M               |
+| 9M2025 | $258.7M              | (not disclosed in earnings release)        | $1,336.7M               |
+| FY2025E| ~$345M (run-rate)    | (not disclosed / estimate)                 | ~$1,250M (est.)         |
 
 Per share impact (total amort): FY2024 = -$2.13/share, FY2025E = ~-$1.96/share
 
 **VERDICT: This is the #1 ongoing accounting drag on GAAP EPS (outside of one-time impairments).**
-- Total amortization running at ~ $345M/year (~$86M/quarter)
-- Acquired intangibles (~$215M/yr): declining as M&A assets fully amortize — this part goes away
-- Capitalized software (~$130M/yr): ongoing cost of doing business — this part persists
-- Net acquired intangible balance declining → acquisition-related amort drops ~$20-30M/year
+- Total amortization running at ~$345M/year (~$86M/quarter)
+- Acquired-intangibles amortization has been declining at the full-year level (e.g., $243.0M in FY2023 → $230.3M in FY2024)
+- The remainder of the GAAP amortization line item reflects other amortizing intangible balances (including internally developed/capitalized items depending on classification)
 - **The amortization expense itself is non-cash**; cash impact is via **earlier** M&A cash paid and/or **ongoing capex/capitalized software** (see cash flow).
 
 ### C. STOCK-BASED COMPENSATION — Improving Rapidly
@@ -161,18 +160,20 @@ Reflects lower stock price = fewer option grants needed, plus post-restructuring
 
 ### Current State (FY2025 Guidance Midpoint)
 ```
-Expected Net Loss:                     -$207M    (-$1.18/share)
+Expected Net Loss (derived):           -$207M    (~-$1.18/share)
 Shares Outstanding:                     ~176M
 
 NON-CASH ITEMS INCLUDED IN THAT LOSS:
   + Amortization of Intangibles         +$345M    (+$1.96/share)
   + Stock-Based Compensation             +$86M    (+$0.49/share)
-  + Goodwill Impairments                 +$72M    (+$0.41/share)
+  + Goodwill Impairments                 +$72M    (+$0.41/share)  (illustrative; based on 9M2025)
   + Depreciation                         +$14M    (+$0.08/share)
-  + Restructuring                        +$16M    (+$0.09/share)
+  + Restructuring                        +$16M    (+$0.09/share)  (illustrative)
                                         ──────
   = NON-GAAP NET INCOME PROXY           +$326M    (+$1.85/share) ✅ POSITIVE (but not a company-reported metric)
 ```
+
+Note: the net loss and per-share figure above are **derived** from FY2025 guidance ranges (midpoint), not a separately guided “net loss $” line item.
 
 ### THE MATH: Removing Amortization (Non‑GAAP “Pre‑Amort” View)
 ```
@@ -194,8 +195,8 @@ Without that ONE item, TDOC would already be profitable on a “pre‑amortizati
 **Current Annual Drags (FY2025):**
 - Amortization: ~$345M (declining ~$20-30M/year naturally)
 - SBC: ~$86M (declining ~$30M/year)
-- Goodwill: ~$72M (should be near zero going forward, only $283M left)
-- Restructuring: ~$16M (one-time, should end)
+- Goodwill: ~$72M (illustrative; 2025 includes acquisition-related impairments to date)
+- Restructuring: ~$16M (illustrative; one-time, should end)
 
 **Assumption: Adjusted EBITDA stays ~$280M (conservative)**
 This timeline does **not explicitly model** U.S. vs International growth. Any benefit from faster International growth would only show up here **if it increases consolidated revenue and/or adjusted EBITDA** versus this flat-EBITDA assumption.
@@ -234,7 +235,7 @@ BetterHelp Revenue Trend:
   2025E:  ~$953M   (-8.5%)
 ```
 - BetterHelp spends enormous amounts on advertising (majority of the $706M/yr ad budget)
-- Paying users declining: 457K (2023) → 405K (2024) → 389K (2025)
+- Paying users declining: 457K (2023) → 405K (2024) → ~389K (9M 2025 average)
 - Insurance acceptance rollout could stabilize users and reduce CAC
 - **IF BetterHelp margins return to 12%: adds ~$85M to bottom line = +$0.48/share**
 
@@ -255,7 +256,7 @@ Integrated Care EBITDA Margin:
   2025: ~15.2% (steady)
   Target: 18-20% → could add $45-75M = +$0.25-$0.43/share
 ```
-- Members growing (~ 93.9M in Q3'24 → 102.5M in Q3'25) but ARPU declining (~$1.36 → $1.27)
+- Members growing (~93.9M in Q3'24 → 102.5M in Q3'25) but ARPU declining (~$1.36 → $1.27)
 - Need to cross-sell more services per member and raise ARPU
 
 ### Lever 4: CUT ADVERTISING SPEND (Risky but Powerful)
@@ -265,7 +266,7 @@ Ad & Marketing Spend:
   2024: $705.8M (27.5% of revenue)  ← INCREASED despite lower revenue
   9M2025: $503.7M (26.7%)
 
-If cut to 22% of revenue (~$560M): saves ~$146M = +$0.83/share
+If cut to 22% of revenue (~$565M on FY2024 revenue): saves ~$141M = +~$0.80/share
 ```
 - Most of this is BetterHelp direct-to-consumer marketing
 - Cutting too aggressively accelerates BetterHelp revenue decline
@@ -318,7 +319,7 @@ They already repaid ~$551M of convertible notes in Q2 2025, reducing cash from ~
 
 | Item | Annual Impact | Cash Impact? | Will It Go Away? |
 |------|-------------|-------------|-----------------|
-| **Amortization (total)** | **-$345M (-$1.96/sh)** | **NO** | **Acquired portion (~$215M) declining; cap software (~$130M) ongoing** |
+| **Amortization (total)** | **-$345M (-$1.96/sh)** | **NO** | **Mix of acquired + other amortizing intangibles; acquired portion has been declining (FY23 $243M → FY24 $230M)** |
 | Stock-Based Comp | -$86M (-$0.49/sh) | No (dilution) | Declining rapidly |
 | Goodwill Impairments | -$72M (-$0.41/sh) | No | Nearly done ($283M left) |
 | Restructuring | -$16M (-$0.09/sh) | Yes | Likely ending |
@@ -360,8 +361,8 @@ GOODWILL:       $283M   (company total as of Sept 30, 2025; segment allocation n
                         Almost done. Low risk of further impairment.
 
 AMORTIZATION:   ~$345M/yr total (~$86M/qtr) — primary recurring GAAP EPS drag
-                → Acquired intangibles: ~$215M/yr (declining, goes away)
-                → Capitalized software:  ~$130M/yr (ongoing, stays)
+                → Includes acquired-intangibles amortization (e.g., FY2024 disclosed $230.3M)
+                → Plus other amortizing intangible balances (classification varies by filing)
                 $1,337M intangibles remaining. Purely non-cash.
 
 SBC:            ~$86M/yr and falling fast
@@ -391,21 +392,7 @@ Are they actually losing customers? The story is mixed.
 
 ---
 
-## 11. COMPETITIVE LANDSCAPE (TDOC vs. HIMS)
-
-The Tale of Two Telehealths: Value vs. Growth.
-
-| Feature | Teladoc (TDOC) | Hims & Hers (HIMS) | The Winner? |
-|---------|---------------|--------------------|-------------|
-| **Primary Focus** | Chronic Care / B2B (Enterprise) | Lifestyle / D2C (Consumer) | HIMS (for now) |
-| **Revenue Trend** | **SHRINKING (-2%)** | **GROWING RAPIDLY** | HIMS |
-| **Valuation (P/S)** | **~0.35x** (as of Feb 6, 2026) | **~5.4–5.5x** (as of Feb 6, 2026; uses FY2025 rev guide) | TDOC (Value Play) |
-| **Profitability** | Adj. EBITDA Positive | GAAP Profitable | HIMS |
-| **Market Sentiment** | "Distressed Asset" | "Growth Darling" | HIMS |
-
----
-
-## 12. THE HIDDEN GEM: International Growth
+## 11. THE HIDDEN GEM: International Growth
 
 While the U.S. narrative is negative, the international business is quietly outperforming.
 
@@ -420,6 +407,11 @@ While the U.S. narrative is negative, the international business is quietly outp
 
 - **Q4 2024 / FY2024 earnings release (includes FY2023 + Q4 2023 comparatives)**: `https://s21.q4cdn.com/672268105/files/doc_financials/2024/q4/TDOC-4Q-24-EPR-Final.pdf`
 - **Q3 2025 earnings release / Sept 30, 2025 financials + KPIs**: `https://s21.q4cdn.com/672268105/files/doc_financials/2025/q3/TDOC-2025-09-30-EPR-FINAL.pdf`
-- **Q2 2025 earnings release (convert repayment / cash change)**: `https://ir.teladochealth.com/news-and-events/investor-news/press-release-details/2025/Teladoc-Health-Reports-Second-Quarter-2025-Results/default.aspx`
+- **Q2 2025 earnings release**: `https://s21.q4cdn.com/672268105/files/doc_financials/2025/q2/TDOC-2Q-2025-EPR-Final.pdf`
+- **Q1 2025 earnings release**: `https://s21.q4cdn.com/672268105/files/doc_financials/2025/q1/TDOC-2025-03-31-EPR-FINAL.pdf`
+- **Q3 2024 earnings release (SEC Exhibit 99.1)**: `https://www.sec.gov/Archives/edgar/data/1477449/000147744924000224/tdoc-20240930xexx991.htm`
+- **Q2 2024 earnings release (SEC Exhibit 99.1)**: `https://www.sec.gov/Archives/edgar/data/1477449/000147744924000172/tdoc-20240630xexx991.htm`
+- **Q3 2023 earnings release**: `https://s21.q4cdn.com/672268105/files/doc_news/2023/TDOC-2023-09-30-EPR-Final.pdf`
+- **Q2 2023 earnings release**: `https://s21.q4cdn.com/672268105/files/doc_financials/2023/q2/Teladoc-Q2-2023-EPR-Final.pdf`
 - **Q1 2023 earnings release**: `https://ir.teladochealth.com/news-and-events/investor-news/press-release-details/2023/Teladoc-Health-Reports-First-Quarter-2023-Results/default.aspx`
-- **Q2 2024 earnings context (BetterHelp impairment)**: see Teladoc IR / SEC filing for Q2 2024 period (impairment noted as $790M in 2024).
+- **FY2022 earnings release (for 2022 impairment figure)**: `https://s21.q4cdn.com/672268105/files/doc_financials/2022/q4/Teladoc4Q22Earnings_Final.pdf`
