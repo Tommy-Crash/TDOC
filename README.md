@@ -137,7 +137,7 @@ written down (IC fair value < carrying value at acquisition), net balance unchan
 Per share impact (total amort): FY2024 = -$2.13/share, FY2025E = ~-$1.96/share
 
 **VERDICT: This is the #1 ongoing accounting drag on GAAP EPS (outside of one-time impairments).**
-- Total amortization running at ~$345M/year (~$86M/quarter)
+- Total amortization running at ~ $345M/year (~$86M/quarter)
 - Acquired intangibles (~$215M/yr): declining as M&A assets fully amortize — this part goes away
 - Capitalized software (~$130M/yr): ongoing cost of doing business — this part persists
 - Net acquired intangible balance declining → acquisition-related amort drops ~$20-30M/year
