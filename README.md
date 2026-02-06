@@ -48,7 +48,14 @@ OPERATING EXPENSES:
 ─────────────────────────────────────────────────────
 Total Costs                                $3,590.5
 LOSS FROM OPERATIONS                      -$1,020.9
-Net Interest Income                           $33.3
+─────────────────────────────────────────────────────
+BELOW THE LINE:
+  Interest income                             $57.1
+  Interest expense                           -$23.8
+  Net interest income                         $33.3
+  Other expense, net                          -$6.0
+  Provision for income taxes                  -$7.6
+─────────────────────────────────────────────────────
 NET LOSS                                  -$1,001.2   (-$5.87/share)
 ```
 
@@ -72,6 +79,14 @@ OPERATING EXPENSES:
 ─────────────────────────────────────────────────────
 Total Costs                                $2,114.7
 LOSS FROM OPERATIONS                        -$227.0
+─────────────────────────────────────────────────────
+BELOW THE LINE:
+  Interest income                             $29.8
+  Interest expense                           -$14.8
+  Net interest income                         $15.1
+  Other income, net                           $10.0
+  Tax benefit                                 $26.7
+─────────────────────────────────────────────────────
 NET LOSS                                    -$175.2   (-$1.00/share)
 ```
 
@@ -83,30 +98,39 @@ NET LOSS                                    -$175.2   (-$1.00/share)
 
 | Year  | Goodwill Impairment | Remaining Goodwill |
 |-------|--------------------|--------------------|
-| 2022  | ~$9,600M           | ~$1,073M           |
+| 2022  | $13,402.8M         | ~$1,073M           |
 | 2023  | $0                 | $1,073M            |
 | 2024  | $790M (BetterHelp) | **$283M**          |
 | 2025  | $71.8M (Catapult/Telecare) | **$283M**   |
 
-**VERDICT: Nearly fully written down. Only $283M of goodwill remains.**
+**VERDICT: Nearly fully written down. Only $283M of goodwill remains — 100% BetterHelp segment.**
+Integrated Care goodwill = $0 (fully written off in 2022 impairments).
+BetterHelp started 2024 at $1,073M → $790M impairment → $283M remaining.
 The 2020 Livongo acquisition ($18.5B) destroyed ~$15B+ in shareholder value through impairments.
-This is almost done. Minimal future impairment risk from remaining $283M balance.
+2025 impairments ($71.8M) were new goodwill from Catapult/Telecare acquisitions immediately
+written down (IC fair value < carrying value at acquisition), net balance unchanged at $283M.
 
-### B. AMORTIZATION OF ACQUIRED INTANGIBLES — The Silent Killer
+### B. AMORTIZATION OF INTANGIBLES — The Silent Killer
 
-| Period | Amort. Expense | Intangible Assets (Net) | Per Share Impact |
-|--------|---------------|------------------------|-----------------|
-| FY2023 | $325.9M       | $1,677.8M              | -$1.48/share    |
-| FY2024 | $363.4M       | $1,431.4M              | -$1.35/share    |
-| 9M2025 | $258.7M       | $1,336.7M              | -$1.47/share    |
-| FY2025E| ~$345M        | ~$1,250M (est.)        | ~-$1.95/share   |
+**Total amortization includes two components:**
+1. **Acquired intangibles** (customer relationships, trade names, technology from M&A) — ~$230M/yr
+2. **Capitalized software development** (internal development costs) — ~$133M/yr
+
+| Period | Total Amort. | Acquired Intangibles Only | Cap. Software | Intangible Assets (Net) |
+|--------|-------------|--------------------------|---------------|------------------------|
+| FY2023 | $325.9M     | ~$208M                   | ~$118M        | $1,677.8M              |
+| FY2024 | $363.4M     | $230.3M                  | $133.1M       | $1,431.4M              |
+| 9M2025 | $258.7M     | ~$163M                   | ~$96M         | $1,336.7M              |
+| FY2025E| ~$345M      | ~$215M                   | ~$130M        | ~$1,250M (est.)        |
+
+Per share impact (total amort): FY2024 = -$2.13/share, FY2025E = ~-$1.96/share
 
 **VERDICT: THIS IS THE #1 REASON TDOC ISN'T GAAP PROFITABLE.**
-- Running at ~$345M/year (~$86M/quarter)
-- Represents customer relationships, technology, and trade names from acquisitions
-- Net balance: $1,337M → at current rate, ~3.5-4 years until substantially reduced
-- PURELY NON-CASH — no impact on cash flow whatsoever
-- Will naturally decline each year as assets fully amortize
+- Total amortization running at ~$345M/year (~$86M/quarter)
+- Acquired intangibles (~$215M/yr): declining as M&A assets fully amortize — this part goes away
+- Capitalized software (~$130M/yr): ongoing cost of doing business — this part persists
+- Net acquired intangible balance declining → acquisition-related amort drops ~$20-30M/year
+- ALL amortization is non-cash — no impact on cash flow whatsoever
 
 ### C. STOCK-BASED COMPENSATION — Improving Rapidly
 
@@ -250,12 +274,15 @@ ASSETS                              LIABILITIES
 Cash:           $726M               Convertible Notes:  $994M (due 2027)
 Accounts Rec:   $211M               Accounts Payable:    $52M
 Intangibles:  $1,337M (amortizing)  Accrued Expenses:   $206M
-Goodwill:       $283M               Other Liabilities:   $234M
-Other:          $322M               ────────────────────────────
-────────────                        Total Liabilities: $1,486M
-Total Assets: $2,879M               Equity:           $1,392M
+Goodwill:       $283M               Op Lease Liab (LT):  $38M
+Other:          $322M               Deferred Revenue:    $11M
+                                    Deferred Tax (net):  $34M
+────────────                        Other Liabilities:    $4M
+                                    ────────────────────────────
+Total Assets: $2,879M               Total Liabilities: $1,339M
+                                    Equity:           $1,540M
 
-Debt-to-Equity: ~0.71x
+Debt-to-Equity: ~0.65x
 Net Debt: $994M notes - $726M cash = $268M net debt
 ```
 
@@ -270,7 +297,7 @@ They already repaid $551M in Q2 2025, reducing cash from $1.3B to $726M.
 
 | Item | Annual Impact | Cash Impact? | Will It Go Away? |
 |------|-------------|-------------|-----------------|
-| **Amortization of Intangibles** | **-$345M (-$1.96/sh)** | **NO** | **Yes, declining ~$30M/yr** |
+| **Amortization (total)** | **-$345M (-$1.96/sh)** | **NO** | **Acquired portion (~$215M) declining; cap software (~$130M) ongoing** |
 | Stock-Based Comp | -$86M (-$0.49/sh) | No (dilution) | Declining rapidly |
 | Goodwill Impairments | -$72M (-$0.41/sh) | No | Nearly done ($283M left) |
 | Restructuring | -$16M (-$0.09/sh) | Yes | Likely ending |
@@ -299,7 +326,7 @@ They already repaid $551M in Q2 2025, reducing cash from $1.3B to $726M.
 
 ---
 
-## 9. TDOC AT A GLANCE
+## 9. CHEAT SHEET — TDOC AT A GLANCE
 
 ```
 CASH:           $726M   (was $1.3B → paid off $551M convertible notes in Q2 2025)
@@ -307,20 +334,17 @@ DEBT:           $994M   (convertible notes due 2027, need to refinance)
 NET DEBT:       $268M   ($994M - $726M)
 FREE CASH FLOW: ~$175M/yr  (the business DOES generate cash)
 
-GOODWILL:       $283M   (100% Integrated Care, BetterHelp = $0)
+GOODWILL:       $283M   (100% BetterHelp, Integrated Care = $0)
                         Was $14.5B post-Livongo → $13B+ written off
                         Almost done. Low risk of further impairment.
 
-AMORTIZATION:   ~$345M/yr (~$86M/qtr) — THE reason EPS is negative
-                $1,337M intangibles remaining, declining ~$30M/yr
-                Purely non-cash. Zero impact on cash flow.
+AMORTIZATION:   ~$345M/yr total (~$86M/qtr) — THE reason EPS is negative
+                → Acquired intangibles: ~$215M/yr (declining, goes away)
+                → Capitalized software:  ~$130M/yr (ongoing, stays)
+                $1,337M intangibles remaining. Purely non-cash.
 
 SBC:            ~$86M/yr and falling fast
                 $201M (2023) → $146M (2024) → ~$86M (2025) → ~$65M (2026E)
 
 ADJUSTED EBITDA: ~$280M/yr — ALREADY PROFITABLE on operating basis
 GAAP EPS:        ~-$1.18/yr — negative ONLY because of amortization
-
-
-
-
