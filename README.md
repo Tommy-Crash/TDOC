@@ -198,6 +198,11 @@ Without that ONE item, TDOC would already be profitable on a “pre‑amortizati
 - Restructuring: ~$16M (one-time, should end)
 
 **Assumption: Adjusted EBITDA stays ~$280M (conservative)**
+This timeline does **not explicitly model** U.S. vs International growth. Any benefit from faster International growth would only show up here **if it increases consolidated revenue and/or adjusted EBITDA** versus this flat-EBITDA assumption.
+
+Quick way to incorporate it (back-of-envelope):
+- Incremental EBITDA from International growth \(\approx\) \(\Delta\)International revenue × (incremental EBITDA margin).
+- Example: if International adds +$50M annual revenue net of U.S. declines and drops through at 20% incremental margin, that’s +$10M adjusted EBITDA — which would **modestly** accelerate the timeline, but amortization/SBC magnitude still dominates.
 
 | Year   | Amort (est.) | SBC (est.) | Goodwill | Restructuring | Net Adjustment | Adj. EBITDA | EBITDA less add-backs (rough) |
 |--------|-------------|-----------|----------|---------------|----------------|-------------|----------------------|
